@@ -16,6 +16,8 @@ dependencies:
   firebase_storage: ^11.6.8
   firebase_messaging: ^14.7.18
   firebase_auth: ^4.17.7
+#  flutter_quill: ^9.3.1
+  qr_code_scanner: ^1.0.1
 
 dev_dependencies:
   flutter_test:
